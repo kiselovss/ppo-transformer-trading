@@ -1,0 +1,2 @@
+direction,open_time,open_price,open_idx,slip_open,comm_open,close_time,close_price,duration_min,pnl_pct,pnl_usd,slip_close,comm_total
+SHORT,2025-10-10 21:30:00,0.15265999734401703,246522,8.761654794216156,0.0004,2025-10-10 21:35:00,0.17176499962806702,5,-16.2525204959695,-148.22029746555037,3.6977801471948624,0.08
